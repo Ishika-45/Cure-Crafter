@@ -16,6 +16,14 @@ Cure Crafter is a helpful tool for anyone looking for personalized and natural w
 <p>Nowadays,there's a growing dependence on allopathic treatments🩺 and medications💊 despite awareness of their potential side effects. While numerous healthcare chatbots exist in the market, many are centered around recommending allopathic treatments or products from specific organizations. However, our innovation, <b>Cure Crafter</b>, stands out by offering users solutions to their health issues using household items rooted in our Ayurvedic culture. By tapping into traditional remedies, Cure Crafter aims to minimize the risks associated with allopathic drugs' side effects.As in a study it is stated that in India there are <b><u>400,000</u></b> average deaths ocurr due to adverse drug reactions last year which become a topic of concern. </p>
 <p>By embracing Ayurvedic principles, Cure Crafter not only offers effective remedies but also promotes a healthier lifestyle that aligns with the body's natural rhythms and needs. This approach empowers users to take charge of their well-being in a way that minimizes reliance on potentially harmful allopathic medications.Cure Crafter gives personalized advice for different health issues, like headaches, stomach problems, or skin conditions. It suggests using herbs🌿, spices, and other natural ingredients☘️ you might already have at home instead of conventional medicines, which can sometimes be risky.</p>
 <p>By following Ayurvedic ideas, Cure Crafter not only offers effective treatments but also encourages a healthier lifestyle that works with your body's natural rhythms. This helps you take control of your health without relying too much on potentially harmful medicines.💊🩸</p>
+<h3>Features 🤩</h3>
+<p><b>Cure Crafter🤖</b> has the following features:</p>
+<ul>
+  <li><b>Natural Language Processing (NLP): </b>Our chat bot utilizes advanced NLP techniques to understand user queries in natural language, making interaction seamless and intuitive.</li>
+  <li><b>Home Remedies Database: </b>We've curated a comprehensive database of home remedies for various health issues, ensuring that users have access to trusted and effective solutions.</li>
+  <li><b>Intelligent Recommendations: </b>The chat bot employs AI algorithms to analyze user symptoms and preferences, providing personalized recommendations tailored to individual needs.</li>
+  <li><b>Interactive Interface: </b>The interface is designed to be user-friendly, allowing users to interact with the chat bot effortlessly via text input.</li>
+</ul>
 
 
 
