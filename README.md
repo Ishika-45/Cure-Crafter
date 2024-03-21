@@ -34,6 +34,6 @@ Cure Crafter is a helpful tool for anyone looking for personalized and natural w
 <h3>Technologies Stack👩‍💻</h3>
 <ul>
   <li><b>For Frontend: </b>For the frontend of the website, we HTML (for structuring the website), CSS (for styling the website), and JavaScript (for adding the logics to the websites) by these technologies we made our website’s frontend attractive and interactive.</li>
-  <img src="https://i.ibb.co/XFPxdNy/HTML.png" alt="HTML" border="0">
+  <img src="https://i.ibb.co/D5ZgWdC/HTML.jpg" alt="HTML" border="0">
 </ul>
 
