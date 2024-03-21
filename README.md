@@ -33,7 +33,17 @@ Cure Crafter is a helpful tool for anyone looking for personalized and natural w
 </ul>
 <h3>Technologies Stack👩‍💻</h3>
 <ul>
-  <li><b>For Frontend: </b>For the frontend of the website, we HTML (for structuring the website), CSS (for styling the website), and JavaScript (for adding the logics to the websites) by these technologies we made our website’s frontend attractive and interactive.</li>
-  <img src="https://i.ibb.co/D5ZgWdC/HTML.jpg" alt="HTML" border="0">
+  <li><b>For Website Design: </b>For the frontend of the website, we HTML (for structuring the website), CSS (for styling the website), and JavaScript (for adding the logics to the websites) by these technologies we made our website’s frontend attractive and interactive.</li>
+  <img src="https://i.ibb.co/vP4j3qP/html.png" alt="html" border="0" width="80" height="50">
+  <img src="https://i.ibb.co/4Y7xW5N/css.png" alt="css" border="0" width="60" height="50">
+  <img src="https://i.ibb.co/HDKrmM9/js.png" alt="js" border="0" width="60" height="50">
+  <img src="https://i.ibb.co/4p63khj/bootstrap.png" alt="bootstrap" border="0" width="80" height="50">
+  <li><b>For Chatbot Logics: </b>For making and training chatbot🤖 we use python🐍 and <b>Intel® Extension for Pytorch</b></li>
+  <img src="https://i.ibb.co/wpTTVmB/python.png" alt="python" border="0" width="80" height="50">
+  <img src="https://i.ibb.co/VqFbDPK/pytorch.png" alt="pytorch" border="0" width="60" height="50">
+  <li>
+    <b>For building Web Application: </b>We use Flask to build our web application to make it simple and flexible.
+  </li>
+  <img src="https://i.ibb.co/tXP9qSW/flask.png" alt="flask" border="0" width="60" height="50">
 </ul>
 
